@@ -1,4 +1,5 @@
 ### Hello, i'm programmer from Russia. 
+### Programming languages: C#.
 ### My discord: Soft#0101.
 
 
