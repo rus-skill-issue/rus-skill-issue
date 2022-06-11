@@ -1,6 +1,6 @@
 ### Hello, i'm programmer from Russia. 
 ### Programming languages: C#.
-### My discord: Soft#0101.
+### My discord: Skill Issue#9673.
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=Soft0101"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Soft0101&show_icons=true&count_private=true&theme=nightowl" />
